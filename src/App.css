@@ -1,0 +1,9 @@
+.app {
+    background-image:linear-gradient(to right,#051421,#042727)
+}
+
+.app > p{
+    color: white;
+    font-size:7;
+    font-weight: 200;
+}
